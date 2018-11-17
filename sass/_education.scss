@@ -1,0 +1,39 @@
+.education {
+  background-color: #4d878d;
+  color: #fff;
+
+  &_title{
+    margin-left: 40px;
+    font-family: 'Rubik Mono One';
+    font-size: 25px;
+    margin-top: 30px;
+    font-width: 400;
+
+
+  }
+  &_item_year{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 20px;
+    span {
+      margin-left: 20px;
+    }
+
+  }
+  &_item_text_title{
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 22px;
+  }
+  &_item_text_subTitle{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+
+  }
+  &_item_text_text{
+    font-family: Roboto;
+    font-weight: 200;
+
+  }
+}

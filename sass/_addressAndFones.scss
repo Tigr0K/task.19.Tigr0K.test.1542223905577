@@ -1,0 +1,14 @@
+.addressAndPhones{
+  margin-top: 25px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 700;
+  &_phone, &_email, &_site, &_address {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    span{
+      padding-left: 15px;
+    }
+  }
+}

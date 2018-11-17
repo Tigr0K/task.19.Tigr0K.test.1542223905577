@@ -1,0 +1,14 @@
+.skillsList{
+  margin-top: 50px;
+padding-left: 0px;
+  display: flex;
+  justify-content: space-between;
+  &_skill {
+    list-style-type: none;
+
+    img {
+      width: 95px;
+      height: 95px;
+    }
+  }
+}

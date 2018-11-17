@@ -1,0 +1,19 @@
+.infoAboutMe {
+
+  &_avatarAndName {
+
+
+    &_avatar {
+      height: 350px;
+      background: white url("../img/avatar_desktop.png");
+      background-size: cover;
+
+  }
+
+}
+  &_textInformation_aboutMe{
+    margin-top: 50px;
+    font-family: Roboto;
+    font-size: 18px;
+  }
+}
